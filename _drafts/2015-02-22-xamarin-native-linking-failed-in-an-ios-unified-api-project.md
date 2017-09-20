@@ -15,7 +15,7 @@ tags:
   - Xamarin iOS
   - Xamarin Linker
 ---
-On a project my colleague <a href="https://twitter.com/halkar" target="_blank">@halkar</a>&nbsp;and I were working on, we came across a puzzling issue. We only discovered this issue after converting our project from the Classic MonoTouch API to the Unified API. On the iOS simulator, our application would fun fine, but when we tried to run it against a real iOS device, we could get an error to the effect of “**Native linking failed, undefined Objective-C class …**”.
+On a project my colleague <a href="https://twitter.com/halkar" target="_blank">@halkar</a>&nbsp;and I were working on, we came across a puzzling issue. We only discovered this issue after converting our project from the Classic MonoTouch API to the Unified API. On the iOS simulator, our application would run fine, but when we tried to run it against a real iOS device, we could get an error to the effect of “**Native linking failed, undefined Objective-C class …**”.
 
 [<img class="alignnone wp-image-241 size-large" src="http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed-1024x396.png" alt="Xamarin - Native Linking Failed" width="1000" height="387" srcset="http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed-1024x396.png 1024w, http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed-300x116.png 300w, http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed-1000x386.png 1000w, http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed.png 1343w" sizes="(max-width: 1000px) 100vw, 1000px" />](http://teamtam.net/wp-content/uploads/2015/02/NativeLinkingFailed.png)
 

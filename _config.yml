@@ -5,11 +5,11 @@ url:                "http://teamtam.net"
 gravatar_hash:      "7350352430200c5e4bf31ef8599ada02"
 twitter:            "benjamintam"
 github:             "teamtam"
-linkedin:           "teamtam"
+stackoverflow:      "teamtam"
 
 disqus_shortname:   "thinker3197"
 
-background:         "/resources/images/bg.jpg"
+background:         "/assets/images/bg.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
