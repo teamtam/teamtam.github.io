@@ -7,11 +7,11 @@ twitter:            "benjamintam"
 github:             "teamtam"
 stackoverflow:      "teamtam"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "teamtamblog"
 
 background:         "/assets/images/bg.jpg"
 
-paginate:           5
+paginate:           4
 paginate_path:      "/page:num/"
 
 baseurl:            ""
