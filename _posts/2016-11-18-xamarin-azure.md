@@ -1,15 +1,7 @@
 ---
-id: 137
-title: 'Xamarin &#038; Azure: BFF, Really?'
-date: 2016-11-18T12:00:51+00:00
-author: TeamTam
-layout: post
-guid: http://teamtam.net/?p=137
-permalink: /xamarin-azure/
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
+title: 'Xamarin &amp; Azure: BFF, Really?'
+description:  "My talk on the integration story between Xamarin and Azure"
+author: Benjamin Tam
 dsq_thread_id:
   - "5313408312"
 categories:

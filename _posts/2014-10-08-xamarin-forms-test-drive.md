@@ -1,11 +1,7 @@
 ---
-id: 15
-title: 'Xamarin.Forms &#8211; Test Drive'
-date: 2014-10-08T12:00:49+00:00
-author: TeamTam
-layout: post
-guid: http://teamtam.net/?p=15
-permalink: /xamarin-forms-test-drive/
+title: 'Xamarin.Forms - Test Drive'
+description:  "My first impressions of Xamarin.Forms"
+author: Benjamin Tam
 dsq_thread_id:
   - "3520358800"
 categories:

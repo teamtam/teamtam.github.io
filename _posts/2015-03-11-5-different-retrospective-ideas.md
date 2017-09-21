@@ -1,11 +1,7 @@
 ---
-id: 371
 title: 5 Different Retrospective Ideas
-date: 2015-03-11T12:19:20+00:00
-author: TeamTam
-layout: post
-guid: http://teamtam.net/?p=371
-permalink: /5-different-retrospective-ideas/
+description:  "Some of my experiences trying different formats for team retrospectives"
+author: Benjamin Tam
 dsq_thread_id:
   - "3585111641"
 categories:

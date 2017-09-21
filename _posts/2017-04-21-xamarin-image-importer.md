@@ -1,15 +1,7 @@
 ---
-id: 135
 title: Xamarin Image Importer
-date: 2017-04-21T08:00:18+00:00
-author: TeamTam
-layout: post
-guid: http://teamtam.net/?p=135
-permalink: /xamarin-image-importer/
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
+description:  "A little utility to help manage images for Xamarin projects"
+author: Benjamin Tam
 dsq_thread_id:
   - "5743586111"
 categories:

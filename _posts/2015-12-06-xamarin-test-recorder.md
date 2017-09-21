@@ -1,11 +1,7 @@
 ---
-id: 142
 title: Xamarin Test Recorder
-date: 2015-12-06T23:00:02+00:00
-author: TeamTam
-layout: post
-guid: http://teamtam.net/?p=142
-permalink: /xamarin-test-recorder/
+description:  "Introducing Xamarin Test Recorder"
+author: Benjamin Tam
 dsq_thread_id:
   - "4382072812"
 categories:
