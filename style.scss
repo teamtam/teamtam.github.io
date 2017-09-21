@@ -333,9 +333,19 @@ tbody tr:nth-child(odd) th {
         width: 100%;
         text-align: center;
         color: #BDBDBD;
+        a {
+            color: #BDBDBD;
+            text-decoration: none;
+            transition: all 0.3s;
+            &:hover,
+            &:focus {
+                color: #EC407A;
+                text-decoration: dotted;
+            }
+        }
     }
     .social {
-        margin-left: 25vw;
+        margin-left: 33vw;
         height: auto;
         width: 100%;
     }
