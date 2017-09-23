@@ -94,6 +94,7 @@ dl {
 
 dt {
     font-weight: bold;
+    margin-bottom: .5rem;
 }
 
 dd {
@@ -115,7 +116,6 @@ ul {
 }
 
 ol {
-    list-style: inside decimal;
     padding-left: 0;
     li {
         margin-bottom: .25rem;
