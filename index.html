@@ -15,6 +15,7 @@ layout: default
                 {% endif %}
                 <div class="post-date">
                     <time>{{ post.date | date_to_string }}</time>
+                    {% include categories.html %}
                 </div>
             </div>
         {% endfor %}
