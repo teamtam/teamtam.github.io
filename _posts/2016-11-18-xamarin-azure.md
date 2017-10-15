@@ -2,14 +2,10 @@
 title: 'Xamarin &amp; Azure: BFF, Really?'
 description:  "My talk on the integration story between Xamarin and Azure"
 author: Benjamin Tam
-dsq_thread_id:
-  - "5313408312"
-categories:
-  - Talks
-tags:
-  - Azure
-  - Talks
-  - Xamarin
+dsq_thread_id: "5313408312"
+categories: Mobile
+tags: [Talks, Xamarin, Azure]
+comments: true
 ---
 
 Earlier this week, I gave a presentation at the [Brisbane .NET User Group](https://www.meetup.com/Brisbane-Net-User-Group/)

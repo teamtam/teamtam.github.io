@@ -2,14 +2,10 @@
 title: Xamarin Image Importer
 description:  "A little utility to help manage images for Xamarin projects"
 author: Benjamin Tam
-dsq_thread_id:
-  - "5743586111"
-categories:
-  - Mobile
-tags:
-  - PowerShell
-  - Tools
-  - Xamarin
+dsq_thread_id: "5743586111"
+categories: Mobile
+tags: [Tools, Xamarin, PowerShell]
+comments: true
 ---
 
 Firstly, I have a confession to make ... I am pretty lazy! Perhaps not Homer Simpson lazy, but it's something I do aspire to! ;) I take some solace from this quote attributed to Bill Gates:

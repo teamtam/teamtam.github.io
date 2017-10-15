@@ -2,14 +2,10 @@
 title: "Xamarin.Forms - Test Drive"
 description:  "My first impressions of Xamarin.Forms"
 author: Benjamin Tam
-dsq_thread_id:
-  - "3520358800"
-categories:
-  - Mobile
-tags:
-  - Test Drive
-  - Xamarin
-  - Xamarin Forms
+dsq_thread_id: "3520358800"
+categories: Mobile
+tags: [Xamarin]
+comments: true
 ---
 
 Xamarin often quote figures in the order of 70% for code re-use across iOS, Android and Windows applications. The illustration below, borrowed from Xamarin.com, demonstrates this conceptually.

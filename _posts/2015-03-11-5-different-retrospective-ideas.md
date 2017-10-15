@@ -2,14 +2,10 @@
 title: 5 Different Retrospective Ideas
 description:  "Some of my experiences trying different formats for team retrospectives"
 author: Benjamin Tam
-dsq_thread_id:
-  - "3585111641"
-categories:
-  - Agile
-tags:
-  - Agile
-  - Retrospectives
-  - Scrum
+dsq_thread_id: "3585111641"
+categories: Agile
+tags: [Scrum]
+comments: true
 ---
 
 On a recent client project that embraced many Agile ideas without adhering strictly to one methodology, I had some 'Scrum Master' responsibilities. One aspect of this I enjoyed in particular was facilitating our team retrospectives. Over several retros towards the end of the project when many of the easy improvements had already been identified, I endeavoured to introduce a new activity each time in an effort to keep each meeting fresh. After consideration of where the team and project was at each time, below are the activities we tried along with the rationale as to why and how it went for our team. (As an aside, a thank you to the team for being willing guinea pigs!)

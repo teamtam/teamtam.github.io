@@ -2,14 +2,10 @@
 title: Xamarin Test Recorder
 description:  "Introducing Xamarin Test Recorder"
 author: Benjamin Tam
-dsq_thread_id:
-  - "4382072812"
-categories:
-  - Mobile
-tags:
-  - Xamarin
-  - Xamarin Test Cloud
-  - Xamarin Test Recorder
+dsq_thread_id: "4382072812"
+categories: Mobile
+tags: [Xamarin]
+comments: true
 ---
 
 By many accounts, Xamarin is a fantastic product that makes it easier for developers to build apps for a range of mobile devices. For me however, delivering that functionality well is only 'par for the course'. That is, a seamless experience to develop an apk, ipk or appx is what I would simply _expect_ for any offering that promises a common code base targeting multiple mobile platforms.
