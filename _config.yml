@@ -20,10 +20,8 @@ permalink:          /:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Index"
+    href:           "/index"
 
 sass:
   style:            :compressed
