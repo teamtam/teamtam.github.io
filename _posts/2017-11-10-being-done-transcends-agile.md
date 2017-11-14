@@ -9,7 +9,7 @@ comments: true
 
 While the words _agile_ or _scrum_ are now part of the vernacular of the software industry, the reality is many organisations are somewhere on the spectrum between it and a more traditional approach. Some purists may even view _agile_ and _waterfall_ as being binary and mutually exclusive. Regardless, if there is one idea that I think should transcend ideology is that of the _Definition of Done_ (DoD).
 
-I remember my first experience as a team leader many years ago before agile became the de facto standard and I tried to steer the ship towards agility. My team had learnt gradually by osmosis what my expectations were when completing a feature. However, when a new team member joined the fray, he objected to my feedback that he wasn't actually _done_ for some work he had completed. In hindsight, a DoD would have obviously helped mitigate or even prevent an uncomfortable conversation.
+I remember my first experience as a team leader many years ago before agile became the de facto standard and I tried to steer the ship towards agility. My team had learnt gradually by osmosis what my expectations were when completing a feature. However, when a new team member joined the fray, he objected to my feedback that he wasn't actually _done_ for some work he had performed. In hindsight, a DoD would have obviously helped mitigate or even prevent an uncomfortable conversation.
 
 ## What Value Does a DoD Provide?
 

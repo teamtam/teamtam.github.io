@@ -4,7 +4,7 @@ description:  "Some of my experiences trying different formats for team retrospe
 author: Benjamin Tam
 dsq_thread_id: "3585111641"
 categories: Agile
-tags: [Scrum]
+tags: [Scrum, Retrospective]
 comments: true
 ---
 
