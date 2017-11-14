@@ -9,7 +9,7 @@ comments: true
 
 While the words _agile_ or _scrum_ are now part of the vernacular of the software industry, the reality is many organisations are somewhere on the spectrum between it and a more traditional approach. Some purists may even view _agile_ and _waterfall_ as being binary and mutually exclusive. Regardless, if there is one idea that I think should transcend ideology is that of the _Definition of Done_ (DoD).
 
-I remember my first experience as a team leader many years ago before agile became the defacto standard and I tried to steer the ship towards agility. My team had learnt gradually by osmosis what my expectations were when completing a feature. However, when a new team member joined the fray, he did not appreciate my feedback that he wasn't actually done. In hindsight, a DoD would have obviously helped mitigate or even prevent an uncomfortable conversation.
+I remember my first experience as a team leader many years ago before agile became the de facto standard and I tried to steer the ship towards agility. My team had learnt gradually by osmosis what my expectations were when completing a feature. However, when a new team member joined the fray, he objected to my feedback that he wasn't actually _done_ for some work he had completed. In hindsight, a DoD would have obviously helped mitigate or even prevent an uncomfortable conversation.
 
 ## What Value Does a DoD Provide?
 
@@ -25,7 +25,7 @@ From my experience in both leading a team or being a part of a team, some of the
 
 Beyond the advocacy of software quality and the social contracts of a team, a typically overlooked aspect of not having a clear DoD is the impact on estimation. The key input for the planning phase of a traditional project management approach is of course a breakdown of tasks with corresponding estimates of times to deliver each one. Yet without a clear understanding and consensus of what being _done_ means, not just within a delivery team but even including the wider business, how can an estimate and therefore a project plan be arrived at with any sort of accuracy?
 
-As a case in point, on a recent project I was on where there was no clear DoD, a developer claimed he was _done_ after 2 days on a task which was estimated at 4 days. However, in this case, not only was the code written in a manner which made it difficult to unit test, it also caused several regressions which became apparent as soon as the release made it into a test environment, long after it was declared _done_. Imagine if this developer was the sole source of estimates on the project plan?
+As a case in point, on a recent project I was on where there was no clear DoD, a developer claimed he was "done" after 2 days on a task which was estimated at 4 days. However, in this case, not only was the code written in a manner which made it difficult to test, it also caused several regressions which became apparent as soon as the release made it into a test environment, long after it was declared "done". Imagine if this developer was the sole source of estimates for the project plan?
 
 ### 4. Communication
 
