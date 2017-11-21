@@ -22,9 +22,6 @@ html,
 body {
     margin: 0;
     padding: 0;
-    @media (min-width: 38em) {
-        overflow: hidden;
-    }
 }
 
 html {
@@ -401,7 +398,9 @@ tbody tr:nth-child(odd) th {
         margin-left: 20%;
         padding: 3%;
         min-width: 80%;
-        height: 800px;
+    }
+    .post {
+        margin-bottom: 2rem;
     }
     .post-date {
         color: #999;
