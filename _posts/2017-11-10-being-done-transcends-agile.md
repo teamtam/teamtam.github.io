@@ -40,6 +40,7 @@ Below are some potential considerations that could be incorporated into a DoD. W
 - What is the impact on the existing test suite? Are there any new tests?
 - Has the code been merged into the appropriate branch?
 - Is the build green? Has it been deployed to a CI environment?
+- Is documentation appropriate?
 - Is logging appropriate?
 - Is security appropriate?
 - Is performance appropriate?
